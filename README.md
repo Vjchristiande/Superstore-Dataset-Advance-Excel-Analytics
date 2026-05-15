@@ -18,7 +18,7 @@ A series of advanced Excel exercises from our Business Intelligence course. Usin
 <li> Interactive Progress Tracker: </li>
 <img width="903" height="370" alt="image" src="https://github.com/user-attachments/assets/62c2dcf1-63f9-47d3-9787-847340917a2a" />
 <li> Profit-at-Risk: </li>
-<img width="903" height="370" alt="Screenshot 2026-05-15 001552" src="https://github.com/user-attachments/assets/b07282e8-ebc2-4a7a-ac62-fe84f2a18573" />
+<img width="903" height="370" alt="image" src="https://github.com/user-attachments/assets/728f97d2-4071-4ffe-a473-c2d68ec26be7" />
 <li> Speedometer: </li>
 <img width="903" height="370" alt="Screenshot 2026-05-15 001647" src="https://github.com/user-attachments/assets/9b725330-623e-429d-986d-433b989faeeb" />
 <li> Year-over-Year (YoY) Variance: </li>
