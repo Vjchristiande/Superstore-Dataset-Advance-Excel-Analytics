@@ -3,11 +3,11 @@ A series of advanced Excel exercises from our Business Intelligence course. Usin
 
 ## Breakdown of the exercises:
 
-**1. 🎯 Yearly Revenue Chart:** Created a "Progress to Goal" chart for Technology sales against a PHP 100,000 target, connecting it to Slicers so the entire view updates dynamically by city or segment. <br> <br>
-**2. ⚠️ Profit-at-Risk:** I built a dynamic "Top N" filter linked to an external cell. This allows users to type a value (like 5 or 20) to instantly update the view and identify which segments are most at risk based on low profit and high discounts. <br> <br> 
-**3. ⏱️ Speedometer:** I created a nested doughnut chart to track two metrics at once. It monitors sales progress against a 2M target, with a "warning" logic that automatically turns the chart red if shipping costs exceed 15% of sales. <br> <br>
-**4. 📈 Year-over-Year (YoY) Variance:** I developed a comparison tool to measure growth between 2015 and 2016. Using "Show Values As" calculations and cross-connected Slicers, a user can compare different cities and product categories simultaneously. <br> <br>
-**5. 🗺️ Matrix Heatmaps:** I designed a volume tracker using a hardcoded "Target Capacity" heatmap. I also used custom sorting to ensure "Critical" and "High" priority orders are prioritized at the top, overriding Excel's default alphabetical order. 
+**🎯 Yearly Revenue Chart:** Created a "Progress to Goal" chart for Technology sales against a PHP 100,000 target, connecting it to Slicers so the entire view updates dynamically by city or segment. <br> <br>
+**⚠️ Profit-at-Risk:** I built a dynamic "Top N" filter linked to an external cell. This allows users to type a value (like 5 or 20) to instantly update the view and identify which segments are most at risk based on low profit and high discounts. <br> <br> 
+**⏱️ Speedometer:** I created a nested doughnut chart to track two metrics at once. It monitors sales progress against a 2M target, with a "warning" logic that automatically turns the chart red if shipping costs exceed 15% of sales. <br> <br>
+**📈 Year-over-Year (YoY) Variance:** I developed a comparison tool to measure growth between 2015 and 2016. Using "Show Values As" calculations and cross-connected Slicers, a user can compare different cities and product categories simultaneously. <br> <br>
+**🗺️ Matrix Heatmaps:** I designed a volume tracker using a hardcoded "Target Capacity" heatmap. I also used custom sorting to ensure "Critical" and "High" priority orders are prioritized at the top, overriding Excel's default alphabetical order. 
 
 ## Preview
 <li> Interactive Progress Tracker: </li>
