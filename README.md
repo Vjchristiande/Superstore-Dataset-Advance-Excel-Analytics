@@ -3,7 +3,7 @@ A series of advanced Excel exercises from our Business Intelligence course. Usin
 
 ## Breakdown of the exercises:
 <ol>
-<li> **Interactive Progress Tracker:** Created a "Progress to Goal" chart for Technology sales against a PHP 100,000 target, connecting it to Slicers so the entire view updates dynamically by city or segment. </li>
+<li> ***Interactive Progress Tracker:*** Created a "Progress to Goal" chart for Technology sales against a PHP 100,000 target, connecting it to Slicers so the entire view updates dynamically by city or segment. </li>
 
 <li> **Profit-at-Risk:** I built a dynamic "Top N" filter linked to an external cell. This allows users to type a value (like 5 or 20) to instantly update the view and identify which segments are most at risk based on low profit and high discounts. </li>
 
